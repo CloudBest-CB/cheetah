@@ -1,0 +1,4 @@
+2018/08/09 14:29:53 cfg.go:84: read config file: cfg.json successfully
+server started
+2018/08/09 14:29:53 listen.go:30: listening :6030
+<Hostname:renketong-virtual-machine, IP:, AgentVersion:5.1.2, PluginVersion:>

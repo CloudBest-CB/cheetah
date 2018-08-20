@@ -1,0 +1,17 @@
+{
+    "debug": true,
+    "hosts": "",
+    "maxConns": 20,
+    "maxIdle": 100,
+    "listen": ":6030",
+    "trustable": [""],
+    "http": {
+        "enabled": true,
+        "listen": "0.0.0.0:6031"
+    },
+    "influxAddr":"http://influxdb.dev.cn:8086",
+    "database":"agent_server",
+    "username":"adminadmin",
+    "password":"adminadmin",
+    "myMeasurement":"agent_information"
+}
